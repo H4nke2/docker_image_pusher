@@ -1,7 +1,14 @@
 nginx:1.26.1
 nginx:1.27.0
+nginx
 redis
 busybox
+python
+tomcat
+httpd
+mysql:5.7
+mysql
+alpine
 
 
 #支持私库
