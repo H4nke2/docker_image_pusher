@@ -9,6 +9,7 @@ httpd
 mysql:5.7
 mysql
 alpine
+wechaty/wechaty
 
 
 #支持私库
